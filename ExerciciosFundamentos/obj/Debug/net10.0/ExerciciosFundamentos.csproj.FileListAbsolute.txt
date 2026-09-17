@@ -1,0 +1,15 @@
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\bin\Debug\net10.0\ExerciciosFundamentos.exe
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\bin\Debug\net10.0\ExerciciosFundamentos.deps.json
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\bin\Debug\net10.0\ExerciciosFundamentos.runtimeconfig.json
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\bin\Debug\net10.0\ExerciciosFundamentos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\bin\Debug\net10.0\ExerciciosFundamentos.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.AssemblyInfoInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.AssemblyInfo.cs
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\refint\ExerciciosFundamentos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ExerciciosFundamentos.genruntimeconfig.cache
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\ref\ExerciciosFundamentos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosFundamentos\obj\Debug\net10.0\Exercici.6EE0AD67.Up2Date

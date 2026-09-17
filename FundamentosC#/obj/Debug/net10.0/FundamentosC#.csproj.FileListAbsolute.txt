@@ -1,0 +1,15 @@
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.AssemblyInfoInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.AssemblyInfo.cs
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.csproj.CoreCompileInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\bin\Debug\net10.0\FundamentosC#.exe
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\bin\Debug\net10.0\FundamentosC#.deps.json
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\bin\Debug\net10.0\FundamentosC#.runtimeconfig.json
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\bin\Debug\net10.0\FundamentosC#.dll
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\bin\Debug\net10.0\FundamentosC#.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.dll
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\refint\FundamentosC#.dll
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\FundamentosC#.genruntimeconfig.cache
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\ref\FundamentosC#.dll
+C:\Users\45420054884\source\repos\FundamentosC#\FundamentosC#\obj\Debug\net10.0\Fundamen.6B96FC24.Up2Date

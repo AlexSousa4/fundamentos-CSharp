@@ -1,0 +1,15 @@
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\bin\Debug\net10.0\OperadorComparacao.exe
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\bin\Debug\net10.0\OperadorComparacao.deps.json
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\bin\Debug\net10.0\OperadorComparacao.runtimeconfig.json
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\bin\Debug\net10.0\OperadorComparacao.dll
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\bin\Debug\net10.0\OperadorComparacao.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.AssemblyInfoInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.AssemblyInfo.cs
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.csproj.CoreCompileInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.dll
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\refint\OperadorComparacao.dll
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\OperadorComparacao.genruntimeconfig.cache
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\ref\OperadorComparacao.dll
+C:\Users\45420054884\source\repos\FundamentosC#\OperadorComparacao\obj\Debug\net10.0\Operador.1FFE4310.Up2Date

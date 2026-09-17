@@ -1,0 +1,15 @@
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\bin\Debug\net10.0\ExerciciosCondicionais.exe
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\bin\Debug\net10.0\ExerciciosCondicionais.deps.json
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\bin\Debug\net10.0\ExerciciosCondicionais.runtimeconfig.json
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\bin\Debug\net10.0\ExerciciosCondicionais.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\bin\Debug\net10.0\ExerciciosCondicionais.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.AssemblyInfoInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.AssemblyInfo.cs
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\refint\ExerciciosCondicionais.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ExerciciosCondicionais.genruntimeconfig.cache
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\ref\ExerciciosCondicionais.dll
+C:\Users\45420054884\source\repos\FundamentosC#\ExerciciosCondicionais\obj\Debug\net10.0\Exercici.9A28E5A4.Up2Date

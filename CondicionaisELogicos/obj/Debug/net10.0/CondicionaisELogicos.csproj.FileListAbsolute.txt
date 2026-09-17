@@ -1,0 +1,15 @@
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\bin\Debug\net10.0\CondicionaisELogicos.exe
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\bin\Debug\net10.0\CondicionaisELogicos.deps.json
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\bin\Debug\net10.0\CondicionaisELogicos.runtimeconfig.json
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\bin\Debug\net10.0\CondicionaisELogicos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\bin\Debug\net10.0\CondicionaisELogicos.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.AssemblyInfoInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.AssemblyInfo.cs
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.csproj.CoreCompileInputs.cache
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\refint\CondicionaisELogicos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.pdb
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.genruntimeconfig.cache
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\ref\CondicionaisELogicos.dll
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\Condicio.75C714AC.Up2Date
