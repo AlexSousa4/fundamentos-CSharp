@@ -13,3 +13,4 @@ C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\n
 C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.genruntimeconfig.cache
 C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\ref\CondicionaisELogicos.dll
 C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\Condicio.75C714AC.Up2Date
+C:\Users\45420054884\source\repos\FundamentosC#\CondicionaisELogicos\obj\Debug\net10.0\CondicionaisELogicos.sourcelink.json

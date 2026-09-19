@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="HackerRank - Day 5 Loops.cs" />
+  </ItemGroup>
+
 </Project>

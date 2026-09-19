@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{91113CE6-046D-40A7-BD9D-6D650A05A873}|EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj|solutionrelative:estruturasderepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B550F96D-C63B-49CE-9EFE-D47190F88A71}|ExerciciosCondicionais\\ExerciciosCondicionais.csproj|c:\\users\\45420054884\\source\\repos\\fundamentosc#\\exercicioscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B550F96D-C63B-49CE-9EFE-D47190F88A71}|ExerciciosCondicionais\\ExerciciosCondicionais.csproj|solutionrelative:exercicioscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91113CE6-046D-40A7-BD9D-6D650A05A873}|EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj|c:\\users\\45420054884\\source\\repos\\fundamentosc#\\estruturasderepeticao\\estruturasderepeticao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91113CE6-046D-40A7-BD9D-6D650A05A873}|EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj|solutionrelative:estruturasderepeticao\\estruturasderepeticao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADCECB75-6466-4E5A-AC7E-3EB47DC98B29}|CondicionaisELogicos\\CondicionaisELogicos.csproj|c:\\users\\45420054884\\source\\repos\\fundamentosc#\\condicionaiselogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCECB75-6466-4E5A-AC7E-3EB47DC98B29}|CondicionaisELogicos\\CondicionaisELogicos.csproj|solutionrelative:condicionaiselogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCECB75-6466-4E5A-AC7E-3EB47DC98B29}|CondicionaisELogicos\\CondicionaisELogicos.csproj|c:\\users\\45420054884\\source\\repos\\fundamentosc#\\condicionaiselogicos\\exerciciosemsaladeaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCECB75-6466-4E5A-AC7E-3EB47DC98B29}|CondicionaisELogicos\\CondicionaisELogicos.csproj|solutionrelative:condicionaiselogicos\\exerciciosemsaladeaula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B550F96D-C63B-49CE-9EFE-D47190F88A71}|ExerciciosCondicionais\\ExerciciosCondicionais.csproj|c:\\users\\45420054884\\source\\repos\\fundamentosc#\\exercicioscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B550F96D-C63B-49CE-9EFE-D47190F88A71}|ExerciciosCondicionais\\ExerciciosCondicionais.csproj|solutionrelative:exercicioscondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A55F4632-0F37-4F06-8098-6711A9A9D56D}|OperadorComparacao\\OperadorComparacao.csproj|c:\\users\\45420054884\\source\\repos\\fundamentosc#\\operadorcomparacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "program.cs",
               "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\FundamentosC#\\program.cs",
               "RelativeDocumentMoniker": "FundamentosC#\\program.cs",
@@ -47,7 +55,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-11T00:07:21.148Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstruturasDeRepeticao",
+              "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+              "RelativeDocumentMoniker": "EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+              "ToolTip": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+              "RelativeToolTip": "EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T23:34:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExerciciosEmSalaDeAula.cs",
+              "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\CondicionaisELogicos\\ExerciciosEmSalaDeAula.cs",
+              "RelativeDocumentMoniker": "CondicionaisELogicos\\ExerciciosEmSalaDeAula.cs",
+              "ToolTip": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\CondicionaisELogicos\\ExerciciosEmSalaDeAula.cs",
+              "RelativeToolTip": "CondicionaisELogicos\\ExerciciosEmSalaDeAula.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T22:25:35.295Z",
               "EditorCaption": ""
             },
             {
@@ -56,16 +89,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\Program.cs",
               "RelativeDocumentMoniker": "EstruturasDeRepeticao\\Program.cs",
-              "ToolTip": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\Program.cs",
-              "RelativeToolTip": "EstruturasDeRepeticao\\Program.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH8AAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\Program.cs*",
+              "RelativeToolTip": "EstruturasDeRepeticao\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T23:13:46.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\ExerciciosCondicionais\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosCondicionais\\Program.cs",
@@ -73,8 +106,7 @@
               "RelativeToolTip": "ExerciciosCondicionais\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T23:19:43.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T23:19:43.422Z"
             },
             {
               "$type": "Document",
@@ -91,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\OperadorComparacao\\Program.cs",
               "RelativeDocumentMoniker": "OperadorComparacao\\Program.cs",
@@ -99,12 +131,11 @@
               "RelativeToolTip": "OperadorComparacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T00:44:49.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T00:44:49.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\ExerciciosFundamentos\\Program.cs",
               "RelativeDocumentMoniker": "ExerciciosFundamentos\\Program.cs",
@@ -112,8 +143,7 @@
               "RelativeToolTip": "ExerciciosFundamentos\\Program.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAMUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-11T00:43:55.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-11T00:43:55.488Z"
             }
           ]
         }
