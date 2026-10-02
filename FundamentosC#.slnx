@@ -1,6 +1,8 @@
 <Solution>
+  <Project Path="Array/Array.csproj" Id="9753178d-c1a7-4f98-983c-b159dd774e53" />
   <Project Path="CondicionaisELogicos/CondicionaisELogicos.csproj" Id="adcecb75-6466-4e5a-ac7e-3eb47dc98b29" />
-  <Project Path="EstruturasDeRepeticao/EstruturasDeRepeticao.csproj" Id="91113ce6-046d-40a7-bd9d-6d650a05a873" />
+  <Project Path="DesafioDojo/DesafioDojo.csproj" Id="75c27136-edd2-43c8-9d41-73ac240b01fe" />
+  <Project Path="EstruturasDeRepeticao/EstruturasDeRepeticaoExercicios.csproj" Id="91113ce6-046d-40a7-bd9d-6d650a05a873" />
   <Project Path="ExerciciosCondicionais/ExerciciosCondicionais.csproj" Id="b550f96d-c63b-49ce-9efe-d47190f88a71" />
   <Project Path="ExerciciosFundamentos/ExerciciosFundamentos.csproj" Id="37aa14bf-36bb-449e-a4bd-723d6ee2d3d5" />
   <Project Path="FundamentosC#/FundamentosC#.csproj" />

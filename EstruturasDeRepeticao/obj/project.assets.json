@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
-      "projectName": "EstruturasDeRepeticao",
-      "projectPath": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\EstruturasDeRepeticao.csproj",
+      "projectUniqueName": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\EstruturasDeRepeticaoExercicios.csproj",
+      "projectName": "EstruturasDeRepeticaoExercicios",
+      "projectPath": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\EstruturasDeRepeticaoExercicios.csproj",
       "packagesPath": "C:\\Users\\45420054884\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\45420054884\\source\\repos\\FundamentosC#\\EstruturasDeRepeticao\\obj\\",
       "projectStyle": "PackageReference",

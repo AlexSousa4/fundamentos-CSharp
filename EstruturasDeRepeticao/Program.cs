@@ -236,8 +236,26 @@ while (operacao != 5)
             break;
         case 5:
             // Lógica para sair
+            Console.WriteLine("Saindo do Programa");
+            break;
+
+        default:
+            Console.WriteLine("Opção Inválida");
             break;
     }
 
 }
 
+
+/*
+13. HackerRank - Day 5: Loops
+
+🔗 https://www.hackerrank.com/challenges/30-loops/problem
+
+Problema: dado um número inteiro `n`, imprima os seus 10 primeiros múltiplos. Cada múltiplo `n x i` (onde 1 ≤ i ≤ 10)
+deve aparecer em uma linha, no formato `n x i = resultado`.
+
+Entrada: um único número inteiro `n` (com 2 ≤ n ≤ 20).
+
+Saída: 10 linhas, cada uma no formato indicado.
+ */
