@@ -4,7 +4,9 @@
   <Project Path="DesafioDojo/DesafioDojo.csproj" Id="75c27136-edd2-43c8-9d41-73ac240b01fe" />
   <Project Path="EstruturasDeRepeticao/EstruturasDeRepeticaoExercicios.csproj" Id="91113ce6-046d-40a7-bd9d-6d650a05a873" />
   <Project Path="ExerciciosCondicionais/ExerciciosCondicionais.csproj" Id="b550f96d-c63b-49ce-9efe-d47190f88a71" />
+  <Project Path="ExerciciosFuncoes/ExerciciosFuncoes.csproj" Id="6490581e-c1df-4f90-9636-d8c3f02adda3" />
   <Project Path="ExerciciosFundamentos/ExerciciosFundamentos.csproj" Id="37aa14bf-36bb-449e-a4bd-723d6ee2d3d5" />
+  <Project Path="Funcoes/Funcoes.csproj" Id="a1f6542b-66f8-4bce-9d7a-604443ed0987" />
   <Project Path="FundamentosC#/FundamentosC#.csproj" />
   <Project Path="OperadorComparacao/OperadorComparacao.csproj" Id="a55f4632-0f37-4f06-8098-6711a9a9d56d" />
 </Solution>
